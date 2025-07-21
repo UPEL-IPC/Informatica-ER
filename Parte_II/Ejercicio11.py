@@ -32,15 +32,15 @@
 #   Si V > 1000
 #       Entonces
 #           Hacer A = A + 1
-#           Hacer T1 = T1 + 1
+#           Hacer T1 = T1 + V
 #       Si no
 #           Si V > 500
 #               Entonces
 #                   Hacer B = B + 1
-#                   Hacer T2 = T2 + 1
+#                   Hacer T2 = T2 + V
 #               Si no
 #                   Hacer C = C + 1
-#                   Hacer T3 = T3 + 1
+#                   Hacer T3 = T3 + V
 #           Fin compara
 #   Fin compara
 #   Hacer TT = TT + V
