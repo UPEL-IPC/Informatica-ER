@@ -20,7 +20,7 @@
 # Mientras R > 0
 #   Hacer KA = KA + 1
 #   Hacer KB = KB - 1
-#   Hacer R = KB = KA
+#   Hacer R = KB - KA
 # Fin mientras
 # Si R = 0
 #   Entonces
